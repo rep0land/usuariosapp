@@ -1,0 +1,30 @@
+.user__container {
+    width: 100%;
+    max-width: 80vw;
+    padding: 0.8em;
+    align-items: stretch;
+    border-radius: 0.3em;
+    background-color: #baeef5;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+   
+}
+
+.user__name {
+    margin-left: 0.5em;
+    background-color: rgb(133, 184, 241);
+    padding-left: 1em;
+    border-radius: 0.1em;
+}
+
+.user__datos {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 1.5em;
+   
+}
+
+
+
